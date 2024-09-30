@@ -1,5 +1,5 @@
-# hugging-face-gradio
-Gradio Apps made using open source models on Hugging Face
-1. Sentimemt Analysis using "distilbert/distilbert-base-uncased-finetuned-sst-2-english" model
-2. Entity Recognition using Hugging Face Pipeline
+# Natural Language Processing (NLP) applications using 🤗 Transformers
+NLP Gradio apps made using open source models:
+1. Sentimemt Analysis using BERT
+2. Entity Recognition using Pipeline
 3. Dumb Chatbot Using Blenderbot-400m model
